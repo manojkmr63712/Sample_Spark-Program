@@ -1,0 +1,21 @@
+package sample
+
+import java.util.{Date, Locale}
+import java.text.DateFormat
+import java.text.DateFormat._
+
+object Manoj {
+  def sum(a:Integer,b:Integer): Integer = {
+    println("There is an chance")
+    return a+b    
+  }
+  def date(){
+    val now = new Date
+    val df = getDateInstance(LONG, Locale.FRANCE)
+    println(df format now)
+  }
+  def main(args: Array[String]) {
+    var data = sum(5,6)
+    println(data)
+  }
+}

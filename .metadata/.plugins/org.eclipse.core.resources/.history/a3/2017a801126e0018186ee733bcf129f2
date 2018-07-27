@@ -1,0 +1,28 @@
+import java.util.*;
+public class Mylass {
+
+	public static void main(String[] args) {
+		HashMap<String,List<Integer>> obj = new HashMap<String,List<Integer>>();
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter the Number of Cards :");
+		int num = input.nextInt();
+		for(int i=1;i<=num;i++){
+			System.out.println("Enter the Card :");
+			String data1 = input.nextLine();
+			int data2 = input.nextInt();
+			input.nextLine();
+			if(!obj.containsKey(data1)){
+				List<Integer> data3 = new ArrayList<Integer>();
+				data3.add(data2);
+				obj.put(data1,data3);
+			}
+			else{
+				List<Integer> data4 = new ArrayList<Integer>();
+				data4=obj.get(data1);
+				obj.put(data1,data4);
+			}
+		}
+		System.out.println(obj);
+	}
+
+}

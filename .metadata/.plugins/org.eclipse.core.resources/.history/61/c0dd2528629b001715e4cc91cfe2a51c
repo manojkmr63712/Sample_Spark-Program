@@ -1,0 +1,10 @@
+package com.mapreduce.join;
+
+public class Mapreducejoin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

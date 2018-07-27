@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.MapReduceBase"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="java.util.StringJoiner"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hdfs.tools.offlineImageViewer.ImageLoader.LoaderFactory"/>
+<fullyQualifiedTypeName name="com.google.inject.spi.Element"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.RecordReader"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.FSDataInputStream"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.TaskAttemptContext"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Mapper"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.NullWritable"/>
+<fullyQualifiedTypeName name="org.apache.commons.logging.LogFactory"/>
+<fullyQualifiedTypeName name="org.apache.commons.logging.Log"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
+<fullyQualifiedTypeName name="javax.swing.text.Document"/>
+<fullyQualifiedTypeName name="com.sun.xml.txw2.Document"/>
+<fullyQualifiedTypeName name="org.jdom.Document"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
+<fullyQualifiedTypeName name="org.w3c.dom.NodeList"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.join.Parser.Node"/>
+<fullyQualifiedTypeName name="javax.xml.soap.Node"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Element"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.util.GenericOptionsParser"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Job"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.FileInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.FileOutputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.RecordReader"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.LongWritable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.DataOutputBuffer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.FileSplit"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.FileSplit"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.Path"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.FileSystem"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONArray"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.Producer"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+</qualifiedTypeNameHistroy>
